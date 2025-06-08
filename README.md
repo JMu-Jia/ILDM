@@ -32,7 +32,7 @@ The datasets involved in this paper are all public datasets. Due to the size of 
 - Motor dataset: https://gitlab.com/power-systems-technion/motor-faults/-/tree/main
 - WT dataset: https://github.com/Liudd-BJUT/WT-planetary-gearbox-dataset
 
-# Citation
+## Citation
 If you find this repository useful, please cite:
 ```
 @ARTICLE{11023071,
