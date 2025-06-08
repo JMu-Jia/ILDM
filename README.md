@@ -31,3 +31,17 @@ The datasets involved in this paper are all public datasets. Due to the size of 
 - HIT dataset: https://drive.google.com/drive/folders/1Km1Go4ilB_bI033SBJ7eJ0uCzbqEqbgt?usp=sharing
 - Motor dataset: https://gitlab.com/power-systems-technion/motor-faults/-/tree/main
 - WT dataset: https://github.com/Liudd-BJUT/WT-planetary-gearbox-dataset
+
+# Citation
+If you find this repository useful, please cite:
+```
+@ARTICLE{11023071,
+  author={Jia, Xinming and Qin, Na and Huang, Deqing and Du, Jiahao and Wang, Tianwei},
+  journal={IEEE Sensors Journal}, 
+  title={Industrial Large-Scale Diagnostic Model with Lightweight Customized Deployment for Distributed Multiple Non-IID Diagnostic Tasks}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={1-13},
+  doi={10.1109/JSEN.2025.3574226}}
+```
